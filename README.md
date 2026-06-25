@@ -76,10 +76,6 @@ Essas hipóteses foram investigadas ao longo da análise exploratória.
 
 A etapa de Análise Exploratória teve como objetivo compreender o comportamento das variáveis e identificar padrões relevantes para o negócio.
 
-## Distribuição dos Custos Médicos
-
-![Distribuição Charges](images/distribuicao_charges.png)
-
 
 ## Etapas realizadas
 
@@ -160,7 +156,7 @@ Foi construída uma matriz de correlação para identificar relações lineares 
 
 ## Matriz de Correlação
 
-![Heatmap](images/heatmap.png)
+![Heatmap](images/Matriz_Corr.png)
 ---
 
 # 🧪 Teste de Hipótese
