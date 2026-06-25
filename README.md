@@ -363,7 +363,7 @@ Este projeto permitiu aplicar conceitos fundamentais e avançados de Ciência de
 
 # 👨‍💻 Autor
 
-**Everson Cardozo**
+**Everson Cardozo Machado**
 
 Cientista de Dados com experiência em Analytics, Machine Learning, People Analytics, Business Intelligence e desenvolvimento de soluções orientadas a dados.
 
