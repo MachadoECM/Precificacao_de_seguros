@@ -223,6 +223,7 @@ Posteriormente foram adicionadas:
 | ------- | ---------- |
 | R²      | 0.7836     |
 | MSE     | 33.602.504 |
+| RMSE     | 5796.77 |
 
 ---
 
@@ -236,6 +237,7 @@ Modelo não linear capaz de capturar relações mais complexas entre as variáve
 | ------- | ---------- |
 | R²      | 0.7431     |
 | MSE     | 39.876.049 |
+| RMSE     | 6314.75 |
 
 ---
 
@@ -249,8 +251,7 @@ Modelo baseado em múltiplas árvores de decisão, reduzindo overfitting e aumen
 | ------- | ---------- |
 | R²      | 0.8695     |
 | MSE     | 20.255.300 |
-| MAE     | 2.473,87   |
-| RMSE    | 4.500,59   |
+| RMSE    | 4500.59   |
 
 ## Gráfico de Dispersão  
 
@@ -260,11 +261,11 @@ Modelo baseado em múltiplas árvores de decisão, reduzindo overfitting e aumen
 
 # 🏆 Comparação dos Modelos
 
-| Modelo           | R²         | MSE            |
+| Modelo           | R²         | RMSE            |
 | ---------------- | ---------- | -------------- |
-| Regressão Linear | 0.7836     | 33.602.504     |
-| Decision Tree    | 0.7431     | 39.876.049     |
-| Random Forest    | **0.8695** | **20.255.300** |
+| Regressão Linear | 0.7836     | 5796.77    |
+| Decision Tree    | 0.7431     | 6314.75     |
+| Random Forest    | **0.8695** | **4500.59** |
 
 O Random Forest apresentou o melhor desempenho entre os modelos avaliados.
 
